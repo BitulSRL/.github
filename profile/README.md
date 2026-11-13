@@ -1,12 +1,23 @@
-## Hi there 👋
+# bitul
 
-<!--
+**Ideile tale. Expertiza noastră.** — *Your ideas. Our expertise.*
 
-**Here are some ideas to get you started:**
+bitul is a software studio based in Brașov, Romania. We design and build web,
+mobile and desktop applications, integrations and AI-powered automations that
+help businesses move forward.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What we do
+
+- **Build a product** — product strategy, UI/UX design, web, mobile and desktop applications
+- **Connect and automate** — custom development, system integrations, AI and automation
+- **Keep systems running** — hardware and networking, web visibility and performance, maintenance and support
+
+We work with independent specialists, matched to each project's requirements.
+
+## Get in touch
+
+- 🌐 Website: [bitul.ro](https://bitul.ro)
+- ✉️ Email: [contact@bitul.ro](mailto:contact@bitul.ro)
+- 🕘 Monday–Friday, 09:00–18:00 EET
+
+*Gândit pentru tine. Construit să funcționeze.* — Thought out for you. Built to work.
